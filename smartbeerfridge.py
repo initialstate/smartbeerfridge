@@ -10,7 +10,7 @@ from ISStreamer.Streamer import Streamer
 # --------- User Settings ---------
 WEIGHT_SAMPLES = 500
 BUCKET_NAME = ":beer: Beer Fridge"
-BUCKET_KEY = "beer051419"
+BUCKET_KEY = "beer2019"
 ACCESS_KEY = "ist_9l88ABg2jnZZgbaDTMoBTYfZVmh8WU43"
 WIIBOARD_NAME = "w2"
 # ---------------------------------
