@@ -12,7 +12,7 @@ WEIGHT_SAMPLES = 500
 BUCKET_NAME = ":beer: Beer Fridge"
 BUCKET_KEY = "beer2019"
 ACCESS_KEY = "ACCESSKEY"
-WIIBOARD_NAME = "w2"
+WIIBOARD_NAME = "w1"
 # ---------------------------------
 
 # Wiiboard Parameters
